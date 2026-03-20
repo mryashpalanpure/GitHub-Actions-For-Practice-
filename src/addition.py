@@ -2,6 +2,7 @@
 # This is a test commit
 # This is a self commit
 # This is my last commit
+# Now the commit is worked properly
 def add(a, b):
     return a + b
 
